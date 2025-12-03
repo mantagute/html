@@ -1,0 +1,1 @@
+This project is totally inspired in Dave Gray HTML Full Course for Beginners. Original content can be seen in his youtube channel.
